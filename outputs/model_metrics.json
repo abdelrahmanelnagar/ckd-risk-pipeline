@@ -1,0 +1,52 @@
+{
+  "accuracy": 0.995,
+  "f1_macro": 0.9892,
+  "f1_weighted": 0.995,
+  "classification_report": {
+    "no_disease": {
+      "precision": 1.0,
+      "recall": 0.9951690821256038,
+      "f1-score": 0.9975786924939467,
+      "support": 207.0
+    },
+    "low_risk": {
+      "precision": 0.9959266802443992,
+      "recall": 1.0,
+      "f1-score": 0.9979591836734694,
+      "support": 489.0
+    },
+    "moderate_risk": {
+      "precision": 0.9925373134328358,
+      "recall": 0.9975,
+      "f1-score": 0.9950124688279302,
+      "support": 400.0
+    },
+    "high_risk": {
+      "precision": 0.9863013698630136,
+      "recall": 0.96,
+      "f1-score": 0.972972972972973,
+      "support": 75.0
+    },
+    "severe_disease": {
+      "precision": 1.0,
+      "recall": 0.9655172413793104,
+      "f1-score": 0.9824561403508771,
+      "support": 29.0
+    },
+    "accuracy": 0.995,
+    "macro avg": {
+      "precision": 0.9949530727080497,
+      "recall": 0.9836372647009828,
+      "f1-score": 0.9891958916638395,
+      "support": 1200.0
+    },
+    "weighted avg": {
+      "precision": 0.9949963956269763,
+      "recall": 0.995,
+      "f1-score": 0.9949750156140781,
+      "support": 1200.0
+    }
+  },
+  "n_train": 4800,
+  "n_test": 1200
+}

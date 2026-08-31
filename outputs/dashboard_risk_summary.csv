@@ -1,0 +1,6 @@
+target,risk_level,patient_count,avg_age,avg_egfr,avg_serum_creatinine,avg_blood_pressure,pct_hypertension,pct_diabetes
+no_disease,0,1032,50.79,103.69,1.25,122.5,29.94,23.84
+low_risk,1,2447,53.91,73.89,1.68,129.93,45.89,36.78
+moderate_risk,2,2001,57.19,47.4,2.49,136.91,57.32,45.18
+high_risk,3,374,59.48,23.65,4.26,143.88,70.05,59.09
+severe_disease,4,146,59.75,7.87,5.44,149.7,83.56,58.22

@@ -1,0 +1,6 @@
+,no_disease,low_risk,moderate_risk,high_risk,severe_disease
+no_disease,206,1,0,0,0
+low_risk,0,489,0,0,0
+moderate_risk,0,1,399,0,0
+high_risk,0,0,3,72,0
+severe_disease,0,0,0,1,28

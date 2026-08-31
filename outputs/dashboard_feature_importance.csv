@@ -1,0 +1,16 @@
+feature,importance
+estimated_glomerular_filtration_rate,0.3157610837530696
+serum_creatinine,0.1463309410552809
+urine_protein_to_creatinine_ratio,0.1091692894853582
+cystatin_c_level,0.0865085551074798
+blood_urea,0.0693016478506691
+parathyroid_hormone_level,0.0539259279804598
+urine_output,0.0313866283425718
+serum_phosphate_level,0.028851310441923
+hemoglobin_level,0.0260907549931935
+albumin_in_urine,0.021999328931847
+specific_gravity_of_urine,0.0132855814950877
+serum_calcium_level,0.0106939313668832
+potassium_level,0.0098802546936715
+packed_cell_volume,0.0090297044185772
+red_blood_cell_count,0.0087598185141472
